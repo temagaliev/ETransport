@@ -1,0 +1,6 @@
+framework module Pods_EKBTransport {
+  umbrella header "Pods-EKBTransport-umbrella.h"
+
+  export *
+  module * { export * }
+}
